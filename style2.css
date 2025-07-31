@@ -1,0 +1,32 @@
+.one{
+    font-size: larger;
+    background-color: rgb(231, 159, 35);
+    text-align: center;
+    font-size: 55px;
+    padding: 40px;
+    border-radius: 70px;
+    border: 2px;
+    border-color: black;
+    
+}
+html{
+    background-color: grey;
+    border: 2px;
+}
+#four{
+    font-style: italic;
+    font-size: 45px;
+    border-radius:35px;
+    background-color: beige;
+    padding-left: 40px;
+    padding: 10px;
+    width: 7ch;
+}
+main{
+    border:2px rgb(2,4,5);
+}
+.three{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+
+}
